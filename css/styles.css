@@ -1,0 +1,52 @@
+/* font-family: "Open Sans", sans-serif; */
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    background-color: coral;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    font-family: "Open Sans";
+    font-weight: 999;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid gray;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    font-family: "Open Sans";
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.span {
+    font-weight: 700;
+}
