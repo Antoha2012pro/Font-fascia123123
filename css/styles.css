@@ -50,3 +50,18 @@ p {
 .span {
     font-weight: 700;
 }
+
+.box123 {
+    margin-bottom: 8px;
+}
+
+.img {
+    margin: auto;
+    width: 1000px;
+}
+
+.box2 {
+    border: 2px solid gray;
+    border-radius: 140px;
+    background-color: rgba(128, 128, 128, 0.425);
+}
